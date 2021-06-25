@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/AlfieriChou/assemblyscript-demo#readme",
   "dependencies": {
+    "@assemblyscript/loader": "^0.19.4",
     "assemblyscript": "^0.19.3"
   }
 }
